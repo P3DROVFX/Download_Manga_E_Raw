@@ -1,5 +1,6 @@
-# MANGABR - DOWNLOAD DE MANGÁS
-Script feito com intuito de facilitar o download de capítulos de mangás no site mangabr.net já que está totalmente insuportável fazer isso no trabalho braçal. 
+# DOWNLOAD DE MANGÁS PARA OS SITES: mangabr.net, raw.senmanga.com e www.mangajikan.com
+# MAIS SITES SUPORTADOS EM BREVE
+Script feito com intuito de facilitar o download de capítulos de mangás já que é insuportável fazer isso no trabalho braçal. 
 
 Uso:
 1 - Instale as bibliotecas: beautifulsoup4, Pillow
